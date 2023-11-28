@@ -1,3 +1,3 @@
 # Condescending_npc
 
-Run main.py and enjoy being patronized.
+Run test_game/main.py and enjoy being patronized.
